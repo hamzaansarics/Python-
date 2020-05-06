@@ -1,0 +1,1 @@
+# print("khanis"[0:6:2])Steup Argument Slicing
